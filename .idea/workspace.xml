@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ebc0c80-e3bb-46dd-8824-188632323c71" name="Changes" comment="feat : add tugas" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="branchbaru" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0e2f3a6f-5af8-44a1-94a6-bff79350cdf6" />
+        <option name="url" value="https://github.com/Fr1day21/qe-d_rhesna-aridlo-setiawan.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MBMCfZeYo3xfogotwtFcGWcWiu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/My Windows/Documents/kampusmerdeka/qe-d_rhesna-aridlo-setiawan"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\My Windows\Documents\kampusmerdeka\qe-d_rhesna-aridlo-setiawan\ 2_Version Control (Git)\screenshoot" />
+      <recent name="C:\Users\My Windows\Documents\kampusmerdeka\qe-d_rhesna-aridlo-setiawan\ 2_Version Control (Git)" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="qe-d_rhesna-aridlo-setiawan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="qe-d_rhesna-aridlo-setiawan" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ebc0c80-e3bb-46dd-8824-188632323c71" name="Changes" comment="" />
+      <created>1677236395747</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677236395747</updated>
+    </task>
+    <task id="LOCAL-00001" summary="docs: make folder and add README.md">
+      <created>1677237133818</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677237133818</updated>
+    </task>
+    <task id="LOCAL-00002" summary="docs: add README.md and make folder">
+      <created>1677237771010</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677237771010</updated>
+    </task>
+    <task id="LOCAL-00003" summary="docs: edit README.md">
+      <created>1677238073032</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1677238073032</updated>
+    </task>
+    <task id="LOCAL-00004" summary="docs: make README.md on branchbaru">
+      <created>1677289927678</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1677289927678</updated>
+    </task>
+    <task id="LOCAL-00005" summary="docs: edit README.md">
+      <created>1677373209484</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1677373209484</updated>
+    </task>
+    <task id="LOCAL-00006" summary="docs: edit README.md">
+      <created>1677373276731</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677373276731</updated>
+    </task>
+    <task id="LOCAL-00007" summary="docs: edit README.md">
+      <created>1677375355509</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1677375355509</updated>
+    </task>
+    <task id="LOCAL-00008" summary="docs: add picture">
+      <created>1677381346209</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677381346209</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat : add tugas">
+      <created>1679057710607</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1679057710607</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docs: make folder and add README.md" />
+    <MESSAGE value="docs: add README.md and make folder" />
+    <MESSAGE value="docs: make README.md on branchbaru" />
+    <MESSAGE value="docs: edit README.md" />
+    <MESSAGE value="docs: add picture" />
+    <MESSAGE value="feat : add tugas" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat : add tugas" />
+  </component>
+</project>
